@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi, I am 
+### 長榮大學學生/應用日語學系
+**日語專業**
 <!--
 **110B03831/110B03831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
